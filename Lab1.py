@@ -1,3 +1,5 @@
+## Estructura de datos
+## Ulises Orozco
 import numpy as np
 import os
 
